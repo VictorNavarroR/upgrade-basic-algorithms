@@ -34,3 +34,21 @@ globalBasePrice = 25000;
 //update final price of car1 and car2
 car1.finalPrice = globalBasePrice + car1.basePrice;
 car2.finalPrice = globalBasePrice + car2.basePrice;
+
+// Iretation 3
+//1.1
+alert(10*5);
+
+//1.2
+alert(10/2);
+
+//1.3
+alert(15%9);
+
+//1.4
+const y = 10;
+const z = 5;
+let x = y + z;
+
+//1.5
+x = y * z;
